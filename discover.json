@@ -1,11 +1,11 @@
 [ 
   { 
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/Haven-launch-all-products-general.jpg",
-    "link": "ob://QmZzTzsoUA3KwwiuHDYDTUMxBcZvLnZteu9YW2hf3BUpZv"
+    "link": "ob://QmZzTzsoUA3KwwiuHDYDTUMxBcZvLnZteu9YW2hf3BUpZv/store"
   },
   { 
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store-pascal-boyart.jpg",
-    "link": "https://OpenBazaar.com/store/QmYTXDyMNjdUSvqNc88T2VeVF3KdG7PMefnGQKrp9NZ5Tp"
+    "link": "ob://QmYTXDyMNjdUSvqNc88T2VeVF3KdG7PMefnGQKrp9NZ5Tp/store"
   },
   { 
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-electronics.jpg",
