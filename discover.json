@@ -1,14 +1,22 @@
 [ 
   { 
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/slider1.png",
-    "link": "ob://QmeSyTRaNZMD8ajcfbhC8eYibWgnSZtSGUp3Vn59bCnPWC/store/the-bitcoin-block-clock-made-to-order"
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/Haven-launch-all-products-general.jpg",
+    "link": "ob://QmZzTzsoUA3KwwiuHDYDTUMxBcZvLnZteu9YW2hf3BUpZv"
   },
   { 
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/slider2.png",
-    "link": "https://search.ob1.io/listings/search?ps=40&q=*&sortBy=relevance&network=mainnet&acceptedCurrencies=LTC"
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store-pascal-boyart.jpg",
+    "link": "ob://QmYTXDyMNjdUSvqNc88T2VeVF3KdG7PMefnGQKrp9NZ5Tp"
   },
   { 
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/slider3.png",
-    "link": "ob://QmU5ZSKVz2GhsqE6EmBGVCtrui4YhUXny6rbvsSf5h2xvH/store"
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-electronics.jpg",
+    "link": "https://search.ob1.io/listings/search?ps=40&q=*&sortBy=relevance&network=mainnet"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-product-transparent-american-airlines.jpg",
+    "link": "ob://QmWq14CV9Lbuva6EBdvZM7kT8mZrixcSnHzwjvrwxjN5H2/store/100-american-airlines-gift-card"
+  },
+  { 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-reminder-backup.jpg",
+    "link": "ob://screens/wallet"
   }
 ]
