@@ -9,7 +9,7 @@
   },
   { 
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-electronics.jpg",
-    "link": "https://search.ob1.io/listings/search?ps=40&q=*&sortBy=relevance&network=mainnet"
+    "link": "https://search.ob1.io/listings/search?ps=40&q=electronic%20OR%20electric%20OR%20camera%20OR%20video%20OR%20phone%20OR%20mobile%20OR%20tablet%20OR%20laptop%20OR%20desktop%20OR%20storage%20OR%20HDD&a0_shipping=any&acceptedCurrencies=any&b1_rating=0&nsfw=false&sortBy=relevance&type=any&z0_condition=any&page=0&mobile&type=physical_good&type=service"
   },
   {
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-product-transparent-american-airlines.jpg",
