@@ -1,11 +1,15 @@
 [ 
   { 
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-deal-uber-cards.jpg",
-    "link": "ob://QmWq14CV9Lbuva6EBdvZM7kT8mZrixcSnHzwjvrwxjN5H2/store/50-uber-gift-card" 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store_EE.png",
+    "link": "ob://QmTne5JYpWoabScc6oENg5UyVNJSLWy8ALY6hxRPrzozsX/store" 
   },
   { 
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store-cryptocollectibles.jpg",
-    "link": "ob://QmakxNv9Y5YFuAuvjvx4mEda3TmFBaHDtacd1KtEL56mP4/store" 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-reminder-payment-protection.png",
+    "link": "https://openbazaar.zendesk.com/hc/en-us/articles/360029807251-What-is-payment-protection-and-how-does-it-work-"
+  },
+  { 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-deal-uber-cards.jpg",
+    "link": "ob://QmWq14CV9Lbuva6EBdvZM7kT8mZrixcSnHzwjvrwxjN5H2/store/50-uber-gift-card" 
   },
   { 
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-clothing.jpg",
@@ -14,9 +18,5 @@
   { 
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store-gifts-galore.png",
     "link": "ob://QmWq14CV9Lbuva6EBdvZM7kT8mZrixcSnHzwjvrwxjN5H2/store"
-  },
-  { 
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/Haven-reminder-get-social.jpg",
-    "link": "ob://screens/feed"
   }
 ]
