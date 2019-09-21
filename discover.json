@@ -1,22 +1,26 @@
 [ 
   { 
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-handmade-min.jpg",
-    "link": "https://search.ob1.io/listings/search?q=Handmade&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile"
-  },
-  { 
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-deal-uber-cards.jpg",
-    "link": "ob://QmWq14CV9Lbuva6EBdvZM7kT8mZrixcSnHzwjvrwxjN5H2/store/50-uber-gift-card" 
-  },
-  {
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-reminder-cryptocurrencies-min.jpg",
-    "link": "https://openbazaar.zendesk.com/hc/en-us/articles/360029807251-What-is-payment-protection-and-how-does-it-work-"
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-Jewellery-min.jpg",
+    "link": "https://search.ob1.io/listings/search?q=Jewelry&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile"
   },
   { 
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-listing-penny-kit-min.jpg",
     "link": "ob://QmQE5wCGM91QLo5YL1aPMS7qYVBquectSm17AQDCSWH6jA/store/penny-portrait-kit1"
   },
   { 
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store_Canaca-min.jpg",
-    "link": "ob://QmRFnERGuQwvA5WCF8gL6acUG9mCiugB5CeQEmJ2rd7RfG/store"
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store_Bauer-min.jpg",
+    "link": "ob://QmdDbjnx3FwPsbaBKZxp9G6gejc9SGveBbPirzkCPhhhg4/store"
+  },
+  { 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-Hulu-gift-cards-min.jpg",
+    "link": "ob://QmWq14CV9Lbuva6EBdvZM7kT8mZrixcSnHzwjvrwxjN5H2/store/25-hulu-gift-card" 
+  },
+  {
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-feature-expanded-categories.png",
+    "link": "https://openbazaar.zendesk.com/hc/en-us/articles/360029807251-What-is-payment-protection-and-how-does-it-work-"
+  },
+  { 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store_Bauer-min.jpg",
+    "link": "ob://QmdDbjnx3FwPsbaBKZxp9G6gejc9SGveBbPirzkCPhhhg4/store"
   }
 ]
