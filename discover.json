@@ -1,15 +1,11 @@
 [ 
   { 
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-art-min.jpg",
-    "link": "https://search.ob1.io/listings/search?q=Art&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile"
-  },
-  { 
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-listing-penny-kit-min.jpg",
     "link": "ob://QmQE5wCGM91QLo5YL1aPMS7qYVBquectSm17AQDCSWH6jA/store/penny-portrait-kit1"
   },
   { 
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store_Bauer-min.jpg",
-    "link": "ob://QmdDbjnx3FwPsbaBKZxp9G6gejc9SGveBbPirzkCPhhhg4/store"
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-books.jpg",
+    "link": "https://search.ob1.io/listings/search?q=Books&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile"
   },
   { 
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-Hulu-gift-cards-min.jpg",
@@ -20,7 +16,7 @@
     "link": "https://openbazaar.zendesk.com/hc/en-us/articles/360029807251-What-is-payment-protection-and-how-does-it-work-"
   },
   { 
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store_Bauer-min.jpg",
-    "link": "ob://QmdDbjnx3FwPsbaBKZxp9G6gejc9SGveBbPirzkCPhhhg4/store"
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-product-Earth-lamp-min.jpg",
+    "link": "ob://QmVpB6diQwCq3r7KV7BzVwgkVLLGtyLErN36So3yg5Z5aZ/store/3d-printing-earth-lamp-decorative-nightlight"
   }
 ]
