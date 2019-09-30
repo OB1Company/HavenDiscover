@@ -1,19 +1,19 @@
 [ 
   { 
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-office-min.jpg",
-    "link": "https://search.ob1.io/listings/search?q=computer%20office&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile"
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-electronics.jpg",
+    "link": "https://search.ob1.io/listings/search?q=electronics&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile"
   },
   { 
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store_ChatuPets-min.jpg",
-    "link": "ob://QmTiyLne8hCzAJVJzADposCQs8w7UqosvC9sK1wqtgmD5d/store" 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store_Buy-and-Now-min.jpg",
+    "link": "ob://QmccxfFg2y4ZgATMqqnAR32n93UoNyrHMuuerjD2ev9TUr/store" 
+  },
+  {
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-feature-push_notifications.png",
+    "link": "https://openbazaar.zendesk.com/hc/en-us/articles/360029807251-What-is-payment-protection-and-how-does-it-work-"
   },
   { 
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-Hulu-gift-cards-min.jpg",
     "link": "ob://QmWq14CV9Lbuva6EBdvZM7kT8mZrixcSnHzwjvrwxjN5H2/store/25-hulu-gift-card" 
-  },
-  {
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-feature-expanded-categories.png",
-    "link": "https://openbazaar.zendesk.com/hc/en-us/articles/360029807251-What-is-payment-protection-and-how-does-it-work-"
   },
   { 
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-product-Earth-lamp-min.jpg",
