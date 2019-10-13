@@ -1,22 +1,22 @@
 [ 
   { 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-deals-cryptocollectibles-min.jpg",
+    "link": "ob://QmakxNv9Y5YFuAuvjvx4mEda3TmFBaHDtacd1KtEL56mP4/store"
+  },
+  { 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-art-min.jpg",
+    "link": "https://search.ob1.io/listings/search?q=art&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile"
+  },
+  { 
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-listing-beardoil-min.jpg",
     "link": "ob://QmTne5JYpWoabScc6oENg5UyVNJSLWy8ALY6hxRPrzozsX/store/perfect-gentleman-beard-balm-large-peach-comb" 
   },
-  { 
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-clothing.jpg",
-    "link": "https://search.ob1.io/listings/search?q=clothing&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile"
-  },
   {
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-reminder-cryptocurrencies-min.jpg",
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-reminder-backup.jpg",
     "link": "https://openbazaar.zendesk.com/hc/en-us/articles/360029807251-What-is-payment-protection-and-how-does-it-work-"
   },
   { 
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-Hulu-gift-cards-min.jpg",
     "link": "ob://QmWq14CV9Lbuva6EBdvZM7kT8mZrixcSnHzwjvrwxjN5H2/store/25-hulu-gift-card" 
-  },
-  { 
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-product-Earth-lamp-min.jpg",
-    "link": "ob://QmVpB6diQwCq3r7KV7BzVwgkVLLGtyLErN36So3yg5Z5aZ/store/3d-printing-earth-lamp-decorative-nightlight"
   }
 ]
