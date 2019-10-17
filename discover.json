@@ -1,18 +1,18 @@
 [ 
   { 
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-deals-cryptocollectibles-min.jpg",
-    "link": "ob://QmakxNv9Y5YFuAuvjvx4mEda3TmFBaHDtacd1KtEL56mP4/store"
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-electronics.jpg",
+    "link": "https://search.ob1.io/listings/search?q=electronics&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile"
   },
   { 
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-art-min.jpg",
-    "link": "https://search.ob1.io/listings/search?q=art&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile"
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store_Canaca-min.jpg",
+    "link": "ob://QmRFnERGuQwvA5WCF8gL6acUG9mCiugB5CeQEmJ2rd7RfG/store"
   },
   { 
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-listing-beardoil-min.jpg",
-    "link": "ob://QmTne5JYpWoabScc6oENg5UyVNJSLWy8ALY6hxRPrzozsX/store/perfect-gentleman-beard-balm-large-peach-comb" 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-handmade-min.jpg",
+    "link": "https://search.ob1.io/listings/search?q=handmade&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile"
   },
   {
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-reminder-backup.jpg",
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-feature-push_notifications.png",
     "link": "https://openbazaar.zendesk.com/hc/en-us/articles/360029807251-What-is-payment-protection-and-how-does-it-work-"
   },
   { 
