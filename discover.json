@@ -4,19 +4,19 @@
     "link": "ob://QmVrm1fBd74rbNBk1b7MdHSdmbFTmfZQetux2B6yfFVoy8/store"
   },
   { 
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-art-min.jpg",
-    "link": "https://search.ob1.io/listings/search?q=art&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile"
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store-smartband.jpg",
+    "link": "ob://QmP91SwPL8MpGqQr1sYbQc9bPPwT6oxykaEKK15dHvQUsc/store"
   },
   { 
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store_Matthew_Zipkin-min.jpg",
-    "link": "QmeSyTRaNZMD8ajcfbhC8eYibWgnSZtSGUp3Vn59bCnPWC/store"
+    "link": "ob://QmeSyTRaNZMD8ajcfbhC8eYibWgnSZtSGUp3Vn59bCnPWC/store"
   },
   { 
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-Hulu-gift-cards-min.jpg",
-    "link": "ob://QmWq14CV9Lbuva6EBdvZM7kT8mZrixcSnHzwjvrwxjN5H2/store/25-hulu-gift-card" 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store-safehome.jpg",
+    "link": "ob://QmRKRcTtKbXed4RZznFiZz6V342MjG9Ms5L5D72vYWYi3v/store" 
   },
   {
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-reminder-backup.jpg",
-    "link": "https://openbazaar.zendesk.com/hc/en-us/articles/360029807251-What-is-payment-protection-and-how-does-it-work-"
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store-puzzlepop.jpg",
+    "link": "ob://QmeKdJRpjbcu1sCP4VnzD8ED8H8cc5BvYXo76uVKzBsYs3/store"
   }
 ]
