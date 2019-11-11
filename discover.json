@@ -1,22 +1,27 @@
 [ 
   { 
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store_Inuvialuit-min.jpg",
-    "link": "ob://QmVrm1fBd74rbNBk1b7MdHSdmbFTmfZQetux2B6yfFVoy8/store"
+    "link": "ob://QmVrm1fBd74rbNBk1b7MdHSdmbFTmfZQetux2B6yfFVoy8/store",
+    "peerid": "QmVrm1fBd74rbNBk1b7MdHSdmbFTmfZQetux2B6yfFVoy8"
   },
   { 
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store-smartband.jpg",
-    "link": "ob://QmP91SwPL8MpGqQr1sYbQc9bPPwT6oxykaEKK15dHvQUsc/store"
+    "link": "ob://QmP91SwPL8MpGqQr1sYbQc9bPPwT6oxykaEKK15dHvQUsc/store",
+    "peerid": "QmP91SwPL8MpGqQr1sYbQc9bPPwT6oxykaEKK15dHvQUsc"
   },
   { 
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store_Matthew_Zipkin-min.jpg",
-    "link": "ob://QmeSyTRaNZMD8ajcfbhC8eYibWgnSZtSGUp3Vn59bCnPWC/store"
+    "link": "ob://QmeSyTRaNZMD8ajcfbhC8eYibWgnSZtSGUp3Vn59bCnPWC/store",
+    "peerid": "QmeSyTRaNZMD8ajcfbhC8eYibWgnSZtSGUp3Vn59bCnPWC"
   },
   { 
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store-safehome.jpg",
-    "link": "ob://QmRKRcTtKbXed4RZznFiZz6V342MjG9Ms5L5D72vYWYi3v/store" 
+    "link": "ob://QmRKRcTtKbXed4RZznFiZz6V342MjG9Ms5L5D72vYWYi3v/store",
+    "peerid": "QmRKRcTtKbXed4RZznFiZz6V342MjG9Ms5L5D72vYWYi3v"
   },
   {
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store-puzzlepop.jpg",
-    "link": "ob://QmeKdJRpjbcu1sCP4VnzD8ED8H8cc5BvYXo76uVKzBsYs3/store"
+    "link": "ob://QmeKdJRpjbcu1sCP4VnzD8ED8H8cc5BvYXo76uVKzBsYs3/store",
+    "peerid": "QmeKdJRpjbcu1sCP4VnzD8ED8H8cc5BvYXo76uVKzBsYs3"
   }
 ]
