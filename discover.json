@@ -1,13 +1,13 @@
 [ 
   { 
-    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store-secret.png",
-    "link": "ob://QmYkFV2QQZGmuCopNPgr6Dee3PPtjaiF54jsDRhARD3WjF/store",
-    "peerid": "QmYkFV2QQZGmuCopNPgr6Dee3PPtjaiF54jsDRhARD3WjF"
-  },
-  { 
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store-bok-toy.png",
     "link": "ob://QmRwUamX7SVMxPTntYz5PD91Rh3MQQnDruVHmtRmxprzjn/store",
     "peerid": "QmRwUamX7SVMxPTntYz5PD91Rh3MQQnDruVHmtRmxprzjn"
+  },
+  { 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store-secret.png",
+    "link": "ob://QmYkFV2QQZGmuCopNPgr6Dee3PPtjaiF54jsDRhARD3WjF/store",
+    "peerid": "QmYkFV2QQZGmuCopNPgr6Dee3PPtjaiF54jsDRhARD3WjF"
   },
   {
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store-nightbright.png",
