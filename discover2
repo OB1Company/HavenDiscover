@@ -1,0 +1,27 @@
+[ 
+  { 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store-robot-frankie.png",
+    "link": "ob://QmQHsdDiBbgvHtSkDUV3AhqU4ZqemfPinQKCRBsUciVLJn/store",
+    "peerid": "QmQHsdDiBbgvHtSkDUV3AhqU4ZqemfPinQKCRBsUciVLJn"
+  },
+  { 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store-fm-clothing.png",
+    "link": "ob://QmPPrYeyUab4QJJ8p38KqWZvnUzz2o9poJoKDpum4RqXZZ/store",
+    "peerid": "QmPPrYeyUab4QJJ8p38KqWZvnUzz2o9poJoKDpum4RqXZZ"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store-suny.png",
+    "link": "ob://Qmd2xq1sQM7umkXriZKdYLCBnTGb6NwMBPjfaaS6umFDRT/store",
+    "peerid": "Qmd2xq1sQM7umkXriZKdYLCBnTGb6NwMBPjfaaS6umFDRT"
+  },
+  { 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store_Dropship-min.jpg",
+    "link": "ob://QmbjKjCPcRD27QmzaPb5qMw2v5fveWWUQKthk6hgJfCYiF/store",
+    "peerid": "QmbjKjCPcRD27QmzaPb5qMw2v5fveWWUQKthk6hgJfCYiF"
+  },
+  { 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store-gifts-galore.png",
+    "link": "ob://QmWq14CV9Lbuva6EBdvZM7kT8mZrixcSnHzwjvrwxjN5H2/store",
+    "peerid": "QmWq14CV9Lbuva6EBdvZM7kT8mZrixcSnHzwjvrwxjN5H2"
+  }
+]
