@@ -340,6 +340,41 @@
     "peerid": "Qmb7NqVJZpfMZ8fXfcdUX9R8MZT281qKkYnzowogc9d7Vn"
   },
   { 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-cellphones.png",
+    "link": "https://search.ob1.io/listings/search?q=cellphones&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile",
+    "peerid": ""
+  },
+  { 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-gift-cards.png",
+    "link": "https://search.ob1.io/listings/search?q=gift%20cards&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile",
+    "peerid": ""
+  },
+  { 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-mens-clothing.png",
+    "link": "https://search.ob1.io/listings/search?q=men%27s%20clothing&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile",
+    "peerid": ""
+  },
+  { 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-womens-clothing.png",
+    "link": "https://search.ob1.io/listings/search?q=women%27s%20clothing&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile",
+    "peerid": ""
+  },
+  { 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-shoes.png",
+    "link": "https://search.ob1.io/listings/search?q=shoes&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile",
+    "peerid": ""
+  },
+  { 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-toys.png",
+    "link": "https://search.ob1.io/listings/search?q=toys&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile",
+    "peerid": ""
+  },
+  { 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-electronics.png",
+    "link": "https://search.ob1.io/listings/search?q=electronics&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile",
+    "peerid": ""
+  },
+  { 
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store_Dropship-min.jpg",
     "link": "ob://QmbjKjCPcRD27QmzaPb5qMw2v5fveWWUQKthk6hgJfCYiF/store",
     "peerid": "QmbjKjCPcRD27QmzaPb5qMw2v5fveWWUQKthk6hgJfCYiF"
