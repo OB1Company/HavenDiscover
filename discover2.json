@@ -373,6 +373,36 @@
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-electronics.png",
     "link": "https://search.ob1.io/listings/search?q=electronics&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile",
     "peerid": ""
+  },  
+  { 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-tools.png",
+    "link": "https://search.ob1.io/listings/search?q=tools&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile",
+    "peerid": ""
+  },    
+  { 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-jewelry.png",
+    "link": "https://search.ob1.io/listings/search?q=jewelry&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile",
+    "peerid": ""
+  },     
+  { 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-lights.png",
+    "link": "https://search.ob1.io/listings/search?q=lights&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile",
+    "peerid": ""
+  },       
+  { 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-lights.png",
+    "link": "https://search.ob1.io/listings/search?q=lights&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile",
+    "peerid": ""
+  },  
+  { 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-bags.png",
+    "link": "https://search.ob1.io/listings/search?q=bags&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile",
+    "peerid": ""
+  }, 
+  { 
+    "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-category-apparel-accessories.png",
+    "link": "https://search.ob1.io/listings/search?q=apparel%20accessories&p=0&ps=40&nsfw=false&acceptedCurrencies=any&network=mainnet&mobile",
+    "peerid": ""
   },
   { 
     "image": "https://raw.githubusercontent.com/OB1Company/HavenDiscover/master/images/haven-featured-store_Dropship-min.jpg",
