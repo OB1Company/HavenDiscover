@@ -76,43 +76,51 @@
   },
   {
     "acceptedCurrencies": [
-      "BTC"
+      "BTC",
+      "BCH",
+      "LTC",
+      "ZEC",
+      "ETH"
     ],
     "averageRating": 0,
-    "categories": [],
+    "categories": [
+      "Home &amp; Garden",
+      "Arts,Crafts &amp; Sewing"
+    ],
     "coinType": "",
     "contractType": "PHYSICAL_GOOD",
-    "description": "Looking for a very unique Christmas Ornament?\nLook no further \nHere is a handmade carving \nInukshuks, the Traditional Canadian Landmark Inuit used for guidance,",
-    "freeShipping": [
-      "ALL"
-    ],
-    "hash": "QmQiiaAYYB65o1rSnJsrzQQuQ2oS8oEFxu6N3T5p74h4no",
+    "description": "Fusion Soapstone Inukshuk \nAll one piece, handmade \n3.5&#34; Tall",
+    "freeShipping": [],
+    "hash": "QmNU3R7uzaYypcAuuYHeN3P3w5npCW2PhE77LpgKEegmRu",
     "language": "",
     "moderators": [
       "QmcscQDiCuTSGxBeMD9qyXwRMcbLU5m9P1kupojYJdFdoh",
-      "QmduBPTQNaXYWivhjNEs8fx5psgazDpH4x1DJqtTcVXhPs",
       "QmeSyTRaNZMD8ajcfbhC8eYibWgnSZtSGUp3Vn59bCnPWC",
       "QmXFyvGNVNAs6VRWZRh2Fot1PUYosoUgu32S9T7dcFp3XA",
-      "QmY1rgTAYwvXALRoKRSrVCsd67JaN2A5S9NZufiupATkm3",
-      "QmYs2Hc2b2dMWPw1qbrYWS5zCRRjWzgUu3XAPWP239SNGp"
+      "QmY1rgTAYwvXALRoKRSrVCsd67JaN2A5S9NZufiupATkm3"
     ],
+    "modifier": 0,
     "nsfw": false,
     "price": {
-      "amount": 6700,
-      "currencyCode": "CAD",
-      "modifier": 0
+      "amount": "12000",
+      "currency": {
+        "code": "CAD",
+        "currencyType": "fiat",
+        "divisibility": 2,
+        "name": "Canadian Dollar"
+      }
     },
     "ratingCount": 0,
     "shipsTo": [
       "ALL"
     ],
-    "slug": "arctic-animal-ornaments1",
+    "slug": "inukshuk-fusion-stone-inuvialuit-carver",
     "thumbnail": {
-      "medium": "QmaMYCV67YDveGjezQyNSQ68qPPTXPh7efw5QCDUB3RzGs",
-      "small": "QmbT9DhsLmWQCcYrjD2BKnFcQA1vJ1NbBroxDRM7TSWem1",
-      "tiny": "QmZCH8nM88UtW83qJBEiZrbfJZbR9USc7gtDKkhC4VKJYK"
+      "medium": "Qmdjmj8GHZPXyRbPBauC3VMDoiwCN1gHjcByviuihkJvHc",
+      "small": "Qmaf2cTYaPsBBcmDyGB5BgrCDXe4AuLQUsHgGPgXw5HnC5",
+      "tiny": "QmQQ632nBMnZrNARjksiYNkR51jbbuEXVg7GEhHBobeLVD"
     },
-    "title": "Arctic Animal Ornaments "
+    "title": "Inukshuk, Fusion Stone, Inuvialuit Carver"
   },
   {
     "averageRating": 0,
