@@ -1,42 +1,31 @@
 [
   {
-    "acceptedCurrencies": [
-      "BTC",
-      "BCH",
-      "LTC",
-      "ZEC"
-    ],
-    "averageRating": 5,
-    "categories": [],
+    "acceptedCurrencies": ["BTC", "LTC", "BCH", "ZEC", "ETH"],
+    "averageRating": 0,
+    "categories": ["Electronics"],
     "coinType": "",
     "contractType": "PHYSICAL_GOOD",
-    "description": "These 4&#34;x6&#34; full color notebooks are a great visual representation of a decentralized network. <p><br></p><p>Show your support for OpenBazaar, Bitcoin, Blo",
-    "freeShipping": [],
-    "hash": "QmW8ju6SxBp4ajtondhuAtaR9ARwqGCQq8abtgPD2vzAoN",
+    "description": "Size: 32GB",
+    "freeShipping": ["UNITED_STATES"],
+    "hash": "Qmf1S2YNfRzjezTADoYrAMRoxsgucSbEb23uDcjT4HPnYr",
     "language": "",
-    "moderators": [
-      "QmVFNEj1rv2d3ZqSwhQZW2KT4zsext4cAMsTZRt5dAQqFJ",
-      "QmYs2Hc2b2dMWPw1qbrYWS5zCRRjWzgUu3XAPWP239SNGp",
-      "QmY1rgTAYwvXALRoKRSrVCsd67JaN2A5S9NZufiupATkm3"
-    ],
+    "moderators": ["QmY1rgTAYwvXALRoKRSrVCsd67JaN2A5S9NZufiupATkm3"],
+    "modifier": 0,
     "nsfw": false,
     "price": {
-      "amount": 500,
+      "amount": 29295,
       "currencyCode": "USD",
       "modifier": 0
     },
-    "ratingCount": 5,
-    "shipsTo": [
-      "UNITED_STATES",
-      "ALL"
-    ],
-    "slug": "decentralize-together-openbazaar-friends-notebook",
+    "ratingCount": 0,
+    "shipsTo": ["UNITED_STATES"],
+    "slug": "2019-samsung-galaxy-tab-a-10-1-inch-touchscreen-1920x1200-wi-fi-t",
     "thumbnail": {
-      "medium": "zb2rhe9Sgb1MS5iGeM989zbVyLk6whPfG6fn97fSjXfMercLH",
-      "small": "zb2rhhwR5pir1pT2RwTGSz4WSU5i5jzrjGQXnzCNViGmjoTTB",
-      "tiny": "zb2rhgqP4FHdqyCVdPNh6VnpmRDRx72Q4jYwnmYnw7BcjV4y8"
+      "medium": "QmYuoiwPFV4r82R8Jdch1TbB9mAjKcZEf6TvGbBd8PVA72",
+      "small": "QmYqKQofPNUupzhn9DCG8hfvSF83iq3RGEiAqaRe1xZYRH",
+      "tiny": "QmYFgCob9cZdAH6WXRonutRQ1gKhDYKFcCNkMAf7oYe6M9"
     },
-    "title": "OpenBazaar Decentralize Notebook"
+    "title": "2019 Samsung Galaxy Tab A 10.1-inch Touchscreen (1920x1200) Wi-Fi Tablet Bundle, Exynos 7904A Processor, 2GB RAM, 32GB Memory, BMali-G71 MP2"
   },
   {
     "averageRating": 0,
@@ -48,14 +37,10 @@
     ],
     "contractType": "PHYSICAL_GOOD",
     "description": "<div>\n\t \n</div>\n<p>\n\t",
-    "freeShipping": [
-      "ALL"
-    ],
+    "freeShipping": ["ALL"],
     "hash": "QmQXo24ypqvUBLyB3uAYn1knDo9Kx7yyN7BksB8W5yRg3g",
     "language": "",
-    "moderators": [
-      "QmY1rgTAYwvXALRoKRSrVCsd67JaN2A5S9NZufiupATkm3"
-    ],
+    "moderators": ["QmY1rgTAYwvXALRoKRSrVCsd67JaN2A5S9NZufiupATkm3"],
     "nsfw": false,
     "price": {
       "amount": 28,
@@ -63,9 +48,7 @@
       "modifier": 0
     },
     "ratingCount": 0,
-    "shipsTo": [
-      "ALL"
-    ],
+    "shipsTo": ["ALL"],
     "slug": "cute-cartoon-mickey-minnie-cable-protector-for-iphonex-4-5-6s-7-8-usb-",
     "thumbnail": {
       "medium": "QmaWar1XMz7XUMJbpr7MXrm59rhu4fkSXZ27S1qgRNbrVD",
@@ -75,18 +58,9 @@
     "title": "Cute Cartoon Mickey Minnie Cable Protector For iPhonex 4 5 6s 7 8 USB Charging Data Line Cord Protector Case Cable Winder Cover"
   },
   {
-    "acceptedCurrencies": [
-      "BTC",
-      "BCH",
-      "LTC",
-      "ZEC",
-      "ETH"
-    ],
+    "acceptedCurrencies": ["BTC", "BCH", "LTC", "ZEC", "ETH"],
     "averageRating": 0,
-    "categories": [
-      "Home &amp; Garden",
-      "Arts,Crafts &amp; Sewing"
-    ],
+    "categories": ["Home &amp; Garden", "Arts,Crafts &amp; Sewing"],
     "coinType": "",
     "contractType": "PHYSICAL_GOOD",
     "description": "Fusion Soapstone Inukshuk \nAll one piece, handmade \n3.5&#34; Tall",
@@ -102,18 +76,11 @@
     "modifier": 0,
     "nsfw": false,
     "price": {
-      "amount": "12000",
-      "currency": {
-        "code": "CAD",
-        "currencyType": "fiat",
-        "divisibility": 2,
-        "name": "Canadian Dollar"
-      }
+      "amount": 12000,
+      "currencyCode": "CAD"
     },
     "ratingCount": 0,
-    "shipsTo": [
-      "ALL"
-    ],
+    "shipsTo": ["ALL"],
     "slug": "inukshuk-fusion-stone-inuvialuit-carver",
     "thumbnail": {
       "medium": "Qmdjmj8GHZPXyRbPBauC3VMDoiwCN1gHjcByviuihkJvHc",
@@ -123,55 +90,41 @@
     "title": "Inukshuk, Fusion Stone, Inuvialuit Carver"
   },
   {
+    "acceptedCurrencies": ["BTC", "LTC", "BCH", "ZEC", "ETH"],
     "averageRating": 0,
-    "categories": [
-      "Weddings &amp; Events",
-      "Cocktail Dresses"
-    ],
+    "categories": ["Video Games"],
+    "coinType": "",
     "contractType": "PHYSICAL_GOOD",
-    "description": "<div><div>",
-    "freeShipping": [
-      "ALL"
-    ],
-    "hash": "QmPi4T9NxeBRDe8faC3y65Gfc3R73wx6nC8YMSojhT9F8p",
+    "description": "Color: Red",
+    "freeShipping": ["UNITED_STATES"],
+    "hash": "QmaHaWshqetVuNEpDV4bydDtn3nARZnARsKD9UD5uuFjFK",
     "language": "",
-    "moderators": [
-      "QmY1rgTAYwvXALRoKRSrVCsd67JaN2A5S9NZufiupATkm3"
-    ],
+    "moderators": ["QmY1rgTAYwvXALRoKRSrVCsd67JaN2A5S9NZufiupATkm3"],
+    "modifier": 0,
     "nsfw": false,
     "price": {
-      "amount": 1071,
-      "currencyCode": "USD",
-      "modifier": 0
+      "amount": "4184",
+      "currencyCode": "USD"
     },
     "ratingCount": 0,
-    "shipsTo": [
-      "ALL"
-    ],
-    "slug": "hot-sale-burgundy-cocktail-dresses-2019-ever-pretty-brand-ep05968bd-te",
+    "shipsTo": ["UNITED_STATES"],
+    "slug": "runmus-gaming-headset-xbox-one-headset-with-7-1-surround-sound-ps",
     "thumbnail": {
-      "medium": "QmZ3rjYA7rpEgST4KnUXRk8S8M2Bt3UuRqCfxcNhHABWJe",
-      "small": "QmPfpMpnm9Kf3es6HFEiFZWuTCkwshE1pLqngUKvMQ9Bd9",
-      "tiny": "QmNmJWbr2q2mVELP7RsMqgCxETzRgLCiitb9ibtEnqg5aF"
+      "medium": "QmZMLhf6VkohEKgCiJzHCN9GHf7sJZLLpdHr8PbgwtCcjp",
+      "small": "Qmdu7K6axJqKaFMwE1EsPPqzLajhhiRRKNVnhFWpjjtzRE",
+      "tiny": "QmfWvExeZK2EXaD7fK6dyJC7CWaqCHMsDYis3demmoa1XG"
     },
-    "title": "Hot Sale Burgundy Cocktail Dresses 2019 Ever-Pretty Brand EP05968BD Tea Length Off the Shoulder Party dresses Elegant Women"
+    "title": "RUNMUS Gaming Headset Xbox One Headset with 7.1 Surround Sound, PS4 Headset with Noise Canceling Mic &amp; LED Light, Compatible with PC, PS"
   },
   {
     "averageRating": 0,
-    "categories": [
-      "Weddings &amp; Events",
-      "Cocktail Dresses"
-    ],
+    "categories": ["Weddings &amp; Events", "Cocktail Dresses"],
     "contractType": "PHYSICAL_GOOD",
     "description": "<table><tbody><tr><td>\t\t\t\t&lt;",
-    "freeShipping": [
-      "ALL"
-    ],
+    "freeShipping": ["ALL"],
     "hash": "QmZPgn7i52p1DyQUMzeGr7pGnJj7zLAK7kT7PymbzsUJP3",
     "language": "",
-    "moderators": [
-      "QmY1rgTAYwvXALRoKRSrVCsd67JaN2A5S9NZufiupATkm3"
-    ],
+    "moderators": ["QmY1rgTAYwvXALRoKRSrVCsd67JaN2A5S9NZufiupATkm3"],
     "nsfw": false,
     "price": {
       "amount": 2502,
@@ -179,9 +132,7 @@
       "modifier": 0
     },
     "ratingCount": 0,
-    "shipsTo": [
-      "ALL"
-    ],
+    "shipsTo": ["ALL"],
     "slug": "ever-pretty-cocktail-dresses-2019-a-line-sleeveless-v-neck-tulle-elega",
     "thumbnail": {
       "medium": "QmYtNuaGtkV452rWqFDjCDUxBB4yQE65AJyWAaRCBPmft9",
@@ -192,21 +143,13 @@
   },
   {
     "averageRating": 0,
-    "categories": [
-      "Men&#39;s Clothing",
-      "Shirts",
-      "Tuxedo Shirts"
-    ],
+    "categories": ["Men&#39;s Clothing", "Shirts", "Tuxedo Shirts"],
     "contractType": "PHYSICAL_GOOD",
     "description": "<div></div>\n",
-    "freeShipping": [
-      "ALL"
-    ],
+    "freeShipping": ["ALL"],
     "hash": "QmToorUucZwPDYDDX8jVcsH5dEC8mGE3oCaGx3VRczsP7M",
     "language": "",
-    "moderators": [
-      "QmY1rgTAYwvXALRoKRSrVCsd67JaN2A5S9NZufiupATkm3"
-    ],
+    "moderators": ["QmY1rgTAYwvXALRoKRSrVCsd67JaN2A5S9NZufiupATkm3"],
     "nsfw": false,
     "price": {
       "amount": 1564,
@@ -214,9 +157,7 @@
       "modifier": 0
     },
     "ratingCount": 0,
-    "shipsTo": [
-      "ALL"
-    ],
+    "shipsTo": ["ALL"],
     "slug": "plus-size-5xl-2019-new-mens-luxury-shirts-wedding-party-dress-long-sle",
     "thumbnail": {
       "medium": "QmeK8dhhQTbhsYpoGondbdKMedo2WBgfeTWyFN8bC98WeM",
