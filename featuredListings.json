@@ -17,6 +17,11 @@
       "currencyCode": "USD",
       "modifier": 0
     },
+    "bigPrice": {
+      "amount": "29295",
+      "currencyCode": "USD",
+      "modifier": 0
+    },
     "ratingCount": 0,
     "shipsTo": ["UNITED_STATES"],
     "slug": "2019-samsung-galaxy-tab-a-10-1-inch-touchscreen-1920x1200-wi-fi-t",
@@ -44,6 +49,11 @@
     "nsfw": false,
     "price": {
       "amount": 28,
+      "currencyCode": "USD",
+      "modifier": 0
+    },
+    "bigPrice": {
+      "amount": "28",
       "currencyCode": "USD",
       "modifier": 0
     },
@@ -79,6 +89,10 @@
       "amount": 12000,
       "currencyCode": "CAD"
     },
+    "bigPrice": {
+      "amount": "12000",
+      "currencyCode": "CAD"
+    },
     "ratingCount": 0,
     "shipsTo": ["ALL"],
     "slug": "inukshuk-fusion-stone-inuvialuit-carver",
@@ -103,6 +117,10 @@
     "modifier": 0,
     "nsfw": false,
     "price": {
+      "amount": 4184,
+      "currencyCode": "USD"
+    },
+    "bigPrice": {
       "amount": "4184",
       "currencyCode": "USD"
     },
@@ -131,6 +149,11 @@
       "currencyCode": "USD",
       "modifier": 0
     },
+    "bigPrice": {
+      "amount": "2502",
+      "currencyCode": "USD",
+      "modifier": 0
+    },
     "ratingCount": 0,
     "shipsTo": ["ALL"],
     "slug": "ever-pretty-cocktail-dresses-2019-a-line-sleeveless-v-neck-tulle-elega",
@@ -153,6 +176,11 @@
     "nsfw": false,
     "price": {
       "amount": 1564,
+      "currencyCode": "USD",
+      "modifier": 0
+    },
+    "bigPrice": {
+      "amount": "1564",
       "currencyCode": "USD",
       "modifier": 0
     },
